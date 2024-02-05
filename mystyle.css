@@ -1,0 +1,28 @@
+      
+.webpageContent {
+    width: 800px;
+    margin:auto;
+    padding:10px;
+    border-left: 5px double rgb(67, 34, 199);
+    border-right: 5px double rgb(67, 34, 199);
+}
+
+body {background-color: rgb(212, 206, 236);}
+
+h1 {color: rgb(34, 5, 122);}  
+
+h2 {color: rgb(81, 71, 109);}  
+
+#banner-img{width: 800px;}
+#nav-table{width: 800px; background-color: rgb(180, 172, 211);}
+
+h3 {color: rgb(99, 93, 116);}  
+
+#jasmineWbg{width: 150px; float: right; margin-right: 5px; margin-bottom: 5px;}
+#pumpkin-img{width:150px; float: right; margin-right: 5px; margin-bottom: 5px;}
+
+#art1560_img{height: 150px; float: left; margin-right: 5px;}
+#art1640_img{height: 150px; float: left; margin-right: 5px;}
+#art1673_img{height: 150px;float: left; margin-right: 5px;}
+
+#hideText{color: transparent}
